@@ -1,4 +1,4 @@
-Hi, I'm @all_hitsugaya 👋.
+Hi, I'm @allhitsugaya 👋.
 🚀 I am an aspiring developer with a passion for creating Telegram bots in Python and calculators in C#. My goal is to make useful and interesting projects that can make other people's lives easier.
 
 👨‍💻 What I do:
