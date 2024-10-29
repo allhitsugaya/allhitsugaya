@@ -1,12 +1,41 @@
-Hi, I'm @allhitsugaya 👋.
-🚀 I am an aspiring developer with a passion for creating Telegram bots in Python and calculators in C#. My goal is to make useful and interesting projects that can make other people's lives easier.
+Hi, I'm @allhitsugaya 👋
+🚀 Aspiring Developer Passionate About Technology and Innovation
 
-👨‍💻 What I do:
-- 🐍 Developing bots for Telegram using Python.
-- 🖥️ Creating calculators and apps in C#.
-- 📚 Teaching and improving my programming skills.
+I'm dedicated to creating useful and interesting projects that make people's lives easier. I have a strong passion for developing Telegram bots in Python and creating web-sites.
 
-🌱 I am currently actively learning and striving for greater achievements in the development world. My goal is to become an experienced developer and contribute to the IT community.
+👨‍💻 What I Do:
+🐍 Developing Telegram Bots in Python
 
-🤝 If you have interesting projects, cooperation proposals or just want to chat about development, don't hesitate to contact me. I am always open for new acquaintances and ideas.
---->
+I use the following Python libraries:
+
+aiogram
+PyNaCl
+Telebot
+Pyrogram
+🖥️ Creating Applications and Calculators in C#
+
+Developing desktop applications to solve everyday tasks.
+
+🌐 Web Development
+
+Working with technologies:
+
+Languages and Frameworks: HTML, CSS, JavaScript, TypeScript, PHP, React
+Server Technologies: Node.js
+Other Languages: Python, Java, C#
+📚 Continuous Learning and Skill Improvement
+
+Striving to learn new technologies and enhance my programming knowledge.
+
+🌱 Currently Learning:
+Advanced Python and its libraries
+Modern web technologies and frameworks
+TypeScript and advanced JavaScript features
+Development with React and other frontend technologies
+🤝 Get in Touch:
+If you have interesting projects, collaboration proposals, or just want to chat about development, feel free to contact me!
+
+Email: sergeyzhitnik2004@gmail.com
+Telegram: @allhitsugaya
+LinkedIn: Serhii Zhytnyk
+I'm always open to new connections and ideas.
