@@ -20,8 +20,8 @@ Developing desktop applications to solve everyday tasks.
 
 Working with technologies:
 
-Languages and Frameworks: HTML, CSS, JavaScript, TypeScript, PHP, React
-Server Technologies: Node.js
+Languages and Frameworks: HTML, CSS, JavaScript(soon), TypeScript(soon), PHP, React(soon)
+Server Technologies: Node.js(soon)
 Other Languages: Python, Java, C#
 📚 Continuous Learning and Skill Improvement
 
