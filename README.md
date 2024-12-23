@@ -12,7 +12,7 @@ aiogram
 PyNaCl
 Telebot
 Pyrogram
-🖥️ Creating Applications and Calculators in C#
+🖥️ Creating Applications in C#
 
 Developing desktop applications to solve everyday tasks.
 
