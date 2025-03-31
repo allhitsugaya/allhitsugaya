@@ -1,41 +1,29 @@
-Hi, I'm @allhitsugaya 👋
-🚀 Aspiring Developer Passionate About Technology and Innovation
+Hi there! I'm @allhitsugaya (Serhii Zhytnyk) 👋
+I'm a passionate developer focused on creating useful and engaging projects that make life easier. My main expertise is in Telegram bot development using Python and web development with modern technologies.
 
-I'm dedicated to creating useful and interesting projects that make people's lives easier. I have a strong passion for developing Telegram bots in Python and creating web-sites.
+👨‍💻 Tech Stack & Skills:
+Telegram Bot Development (Python): Experienced with aiogram, PyNaCl, Telebot, and Pyrogram.
 
-👨‍💻 What I Do:
-🐍 Developing Telegram Bots in Python
+Web Development: Proficient in HTML, CSS, JavaScript, TypeScript, PHP, and React.
 
-I use the following Python libraries:
+Desktop Application Development (C#): Building applications for everyday tasks.
 
-aiogram
-PyNaCl
-Telebot
-Pyrogram
-🖥️ Creating Applications in C#
+🌟 Featured Projects:
+EncryptBot: A Telegram bot for encrypting and decrypting messages using PyNaCl. Ensures secure communication for users. GitHub
 
-Developing desktop applications to solve everyday tasks.
+TwitchBaseBot: A bot that forwards messages to users and stores data in a database, useful for automating interactions on Twitch. GitHub
 
-🌐 Web Development
+backroads-app: A React-based website created using Create React App (CRA), showcasing modern frontend development. GitHub
 
-Working with technologies:
+siteForFun: A website built with Bootstrap and HTML, with plans to integrate JavaScript for enhanced functionality. GitHub
 
-Languages and Frameworks: HTML, CSS, JavaScript(soon), TypeScript(soon), PHP, React(soon)
-Server Technologies: Node.js(soon)
-Other Languages: Python, Java, C#
-📚 Continuous Learning and Skill Improvement
+tasks: A collection of JavaScript, HTML, and CSS exercises completed as part of my studies at Hillel IT School. GitHub
 
-Striving to learn new technologies and enhance my programming knowledge.
+📚 Learning & Growth:
+I'm constantly exploring new technologies and striving to improve my development skills. My goal is to become a skilled developer and contribute to the tech community.
 
-🌱 Currently Learning:
-Advanced Python and its libraries
-Modern web technologies and frameworks
-TypeScript and advanced JavaScript features
-Development with React and other frontend technologies
-🤝 Get in Touch:
-If you have interesting projects, collaboration proposals, or just want to chat about development, feel free to contact me!
+🤝 Let's Connect:
+If you have exciting projects, collaboration ideas, or just want to chat about development, feel free to reach out!
 
-Email: sergeyzhitnik2004@gmail.com
-Telegram: @allhitsugaya
-LinkedIn: Serhii Zhytnyk
-I'm always open to new connections and ideas.
+📩 Telegram: @all_hitsugaya
+Looking forward to building awesome things together! 🚀
